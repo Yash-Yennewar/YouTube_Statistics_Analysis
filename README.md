@@ -5,8 +5,8 @@ End-to-end analysis of global YouTube channel performance using Python for data 
 
 ## 🔗 Project Link :
 
-[YouTube_Statistics_Analysis](YouTube_Statistics_Analysis.pbix)
-[Clean_Global_YouTube_Statistics](youtube_analysis.ipynb)
+- [YouTube_Statistics_Analysis](YouTube_Statistics_Analysis.pbix)
+- [Clean_Global_YouTube_Statistics](youtube_analysis.ipynb)
 
 ---
 
